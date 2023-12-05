@@ -20,3 +20,5 @@ print(multiplication(x,y))
 print(subtraction(x,y))
 
 print(addition(x,y))
+
+print("Deneme")
